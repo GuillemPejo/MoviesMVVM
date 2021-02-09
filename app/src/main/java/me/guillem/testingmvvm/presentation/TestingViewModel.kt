@@ -10,7 +10,6 @@ import kotlinx.coroutines.Dispatchers
  */
 class TestingViewModel : ViewModel() {
 
-    fun testing()= LiveData(Dispatchers.IO)
 
 
 }
