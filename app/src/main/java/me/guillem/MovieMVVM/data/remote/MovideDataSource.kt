@@ -1,8 +1,8 @@
-package me.guillem.testingmvvm.data.remote
+package me.guillem.MovieMVVM.data.remote
 
-import me.guillem.testingmvvm.app.AppConstants
-import me.guillem.testingmvvm.data.model.MovieList
-import me.guillem.testingmvvm.domain.WebService
+import me.guillem.MovieMVVM.app.AppConstants
+import me.guillem.MovieMVVM.data.model.MovieList
+import me.guillem.MovieMVVM.domain.WebService
 
 /**
  ** Created by Guillem on 09/02/21.

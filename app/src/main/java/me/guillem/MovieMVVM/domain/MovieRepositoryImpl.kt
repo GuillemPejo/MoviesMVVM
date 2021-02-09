@@ -1,7 +1,7 @@
-package me.guillem.testingmvvm.domain
+package me.guillem.MovieMVVM.domain
 
-import me.guillem.testingmvvm.data.model.MovieList
-import me.guillem.testingmvvm.data.remote.MovieDataSource
+import me.guillem.MovieMVVM.data.model.MovieList
+import me.guillem.MovieMVVM.data.remote.MovieDataSource
 
 /**
  ** Created by Guillem on 09/02/21.

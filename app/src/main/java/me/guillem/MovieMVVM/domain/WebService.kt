@@ -1,8 +1,8 @@
-package me.guillem.testingmvvm.domain
+package me.guillem.MovieMVVM.domain
 
 import com.google.gson.GsonBuilder
-import me.guillem.testingmvvm.app.AppConstants
-import me.guillem.testingmvvm.data.model.MovieList
+import me.guillem.MovieMVVM.app.AppConstants
+import me.guillem.MovieMVVM.data.model.MovieList
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET

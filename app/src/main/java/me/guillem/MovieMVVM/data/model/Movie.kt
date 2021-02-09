@@ -1,4 +1,4 @@
-package me.guillem.testingmvvm.data.model
+package me.guillem.MovieMVVM.data.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

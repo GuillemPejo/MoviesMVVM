@@ -1,4 +1,4 @@
-package me.guillem.testingmvvm
+package me.guillem.MovieMVVM
 
 import org.junit.Test
 
